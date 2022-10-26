@@ -69,13 +69,8 @@ ul {
   flex: 1 1 20%;
 }
 
-.social {
-  flex-basis: 30%;
-}
 
-.top {
-  flex-basis: 30%;
-}
+
 
 .sound {
   text-decoration: underline;
